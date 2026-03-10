@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Dyadics = "7d70a868-7894-4498-a9f8-5da8f66d5551"
